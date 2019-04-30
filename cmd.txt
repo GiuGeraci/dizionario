@@ -1,0 +1,14 @@
+c prova.txt 
+i aaaaaaa
+i federico
+i 54
+i vadda4
+caxxa
+d capra arpa
+d porcoddio diocane
+r martina
+r mBrtinB
+r ABDHC
+r HaHHA
+r ChBD
+v
